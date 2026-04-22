@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "plyconfig.json": "jsonc"
+  },
+  "java.project.referencedLibraries": [
+    "C:/Users/kusumita/Downloads/openjfx-26_windows-x64_bin-sdk/javafx-sdk-26/lib/**/*.jar"
+  ]
+}
